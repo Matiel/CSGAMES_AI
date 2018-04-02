@@ -25,12 +25,12 @@ En utilisant ces informations, vous devez générer une commande indiquant ce qu
 La carte que vous recevez ressemble à ceci: 
 
 1111111111122211111111111</br>
-1000000000022200000000C01</br>
+1000000000022200000000001</br>
 1000000000002000000000001</br>
 1000200011000001100002001</br>
 100020J01100J00110J002001</br>
 1000200011000001100002001</br>
-1C00S00000002000000000001</br>
+1000S00000002000000000001</br>
 1000S00000022200000000001</br>
 1111111111122211111111111</br>
 
@@ -163,12 +163,12 @@ Using this information, you need to generate commands to control your bot.
 The map you receive will look like this:
 
 1111111111122211111111111</br>
-1000000000022200000000C01</br>
+1000000000022200000000001</br>
 1000000000002000000000001</br>
 1000200011000001100002001</br>
 100020J01100J00110J002001</br>
 1000200011000001100002001</br>
-1C00S00000002000000000001</br>
+1000S00000002000000000001</br>
 1000S00000022200000000001</br>
 1111111111122211111111111</br>
 
@@ -258,11 +258,3 @@ In the `java` folder,
 ## Other rules
 
 You cannot install dependencies. You can only use the ones given in the repository.
-
-## Submission
-
-Submit a single zip file containing your bot and any other necessary file at </br>
-mathieu.carpentier.3@ulaval.ca
-
-Make sure to submit before Sat. 11h30 AM.</br>
-Make sure to include your team name in the email.
