@@ -129,14 +129,6 @@ Dans le dossier `java`,
 
 Vous ne pouvez pas installer de dépendances. Vous avez uniquement le droit d'utiliser ce qui est fourni.
 
-## Remise
-
-Envoyez un seul fichier zip contenant votre bot et tout autre fichier nécessaire à: <br/>
-mathieu.carpentier.3@ulaval.ca
-
-Assurez-vous de remettre votre code avant Samedi 11h30 AM.</br>
-Assurez-vous que votre courriel contient le nom de votre équipe.
-
 # AI Competition
 
 ## Context
